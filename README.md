@@ -1,4 +1,8 @@
 # NotePad-Console-Application-With-Design-Patterns
+EXPLAINING ABOUT PROJECT 
+
+In this project, Builder and Factory pattern were used together.
+
 NotePad Console App with Design Patterns
 An application has been developed where users can take notes. The application will display notes with different appearance on the screen according to the user's preferences.
 
