@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vGaMpoDMro4e//UevJtmR37OAPQajsCJXzmnzGytk200808MBN+KygE9MH55fZGssRmK4qUMhYBLN2ixKEJGyA==",
+  "dgSpecHash": "Lo8wfxxSCpFtd+2YDLg3TSSr8oqmQEv65S6emn7E8auThtzgcEFwkKR3pIgfJQMrZp1FpI556lVExNkNC/3l+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\PC\\Source\\Repos\\NotePad-Console-Application-With-Design-Patterns\\Odev_Lib\\NotePadLib.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
