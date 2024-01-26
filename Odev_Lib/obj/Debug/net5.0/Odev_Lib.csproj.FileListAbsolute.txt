@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\DesignPatternOdev1\Odev_Lib\bin\Debug\net5.0\Odev_Lib.deps.json
+C:\Users\PC\source\repos\DesignPatternOdev1\Odev_Lib\bin\Debug\net5.0\Odev_Lib.dll
+C:\Users\PC\source\repos\DesignPatternOdev1\Odev_Lib\bin\Debug\net5.0\ref\Odev_Lib.dll
+C:\Users\PC\source\repos\DesignPatternOdev1\Odev_Lib\bin\Debug\net5.0\Odev_Lib.pdb
+C:\Users\PC\source\repos\DesignPatternOdev1\Odev_Lib\obj\Debug\net5.0\Odev_Lib.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\DesignPatternOdev1\Odev_Lib\obj\Debug\net5.0\Odev_Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\DesignPatternOdev1\Odev_Lib\obj\Debug\net5.0\Odev_Lib.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\DesignPatternOdev1\Odev_Lib\obj\Debug\net5.0\Odev_Lib.AssemblyInfo.cs
+C:\Users\PC\source\repos\DesignPatternOdev1\Odev_Lib\obj\Debug\net5.0\Odev_Lib.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DesignPatternOdev1\Odev_Lib\obj\Debug\net5.0\Odev_Lib.dll
+C:\Users\PC\source\repos\DesignPatternOdev1\Odev_Lib\obj\Debug\net5.0\ref\Odev_Lib.dll
+C:\Users\PC\source\repos\DesignPatternOdev1\Odev_Lib\obj\Debug\net5.0\Odev_Lib.pdb

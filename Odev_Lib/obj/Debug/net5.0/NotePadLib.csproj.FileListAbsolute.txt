@@ -1,0 +1,11 @@
+C:\Users\PC\github\DesignPattern_NOTEPAD\Odev_Lib\bin\Debug\net5.0\NotePadLib.deps.json
+C:\Users\PC\github\DesignPattern_NOTEPAD\Odev_Lib\bin\Debug\net5.0\NotePadLib.dll
+C:\Users\PC\github\DesignPattern_NOTEPAD\Odev_Lib\bin\Debug\net5.0\ref\NotePadLib.dll
+C:\Users\PC\github\DesignPattern_NOTEPAD\Odev_Lib\bin\Debug\net5.0\NotePadLib.pdb
+C:\Users\PC\github\DesignPattern_NOTEPAD\Odev_Lib\obj\Debug\net5.0\NotePadLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\github\DesignPattern_NOTEPAD\Odev_Lib\obj\Debug\net5.0\NotePadLib.AssemblyInfoInputs.cache
+C:\Users\PC\github\DesignPattern_NOTEPAD\Odev_Lib\obj\Debug\net5.0\NotePadLib.AssemblyInfo.cs
+C:\Users\PC\github\DesignPattern_NOTEPAD\Odev_Lib\obj\Debug\net5.0\NotePadLib.csproj.CoreCompileInputs.cache
+C:\Users\PC\github\DesignPattern_NOTEPAD\Odev_Lib\obj\Debug\net5.0\NotePadLib.dll
+C:\Users\PC\github\DesignPattern_NOTEPAD\Odev_Lib\obj\Debug\net5.0\ref\NotePadLib.dll
+C:\Users\PC\github\DesignPattern_NOTEPAD\Odev_Lib\obj\Debug\net5.0\NotePadLib.pdb
