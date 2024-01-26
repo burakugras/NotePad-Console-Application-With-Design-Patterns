@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesignPatternNotePad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b20f47c2715e319b8d20389b990be42955387d23")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85085928e6f37d87ad27d974c452344672971567")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesignPatternNotePad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesignPatternNotePad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
